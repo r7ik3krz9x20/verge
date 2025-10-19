@@ -131,3 +131,5 @@ Gitian build.
  `./gitian-build.py --detach-sign -s satoshi 0.16.0rc1 --nocommit`
 
 Make another pull request for these.
+
+<!-- Auto-update: 2025-10-19T10:37:34.879706 -->
